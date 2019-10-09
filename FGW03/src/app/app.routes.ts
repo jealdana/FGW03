@@ -12,6 +12,7 @@ const NAV_ROUTES: Routes = [
 
 ];
 
+
 export const app_routing = RouterModule.forRoot( NAV_ROUTES );
 /* Note:
   * add tag <router-outlet></router-outlet> in file component (~.component.html)
